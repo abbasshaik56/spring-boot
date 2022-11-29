@@ -50,4 +50,8 @@ public class JobController {
       public String updateJobInfo() {
         return null;
       }
+      public string fetchJobById(){
+
+        return null;
+      }
 }
